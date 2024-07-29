@@ -5521,10 +5521,10 @@ case 'tovv': {
 ┃   *Rᴜɴᴛɪᴍᴇ* : *${runtime(process.uptime())}*
 ┃   *RAM*  : *${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}*
 ┃   ⌯CPU* : *${totalCpuUsage}%*
-┃   *Developer* : *Tᴀɪʀᴀ Mᴀᴋɪɴᴏ*
+┃   *Developer* : *Mr Frank*
 ┃
 ╰════════════════ ᐖ
-> Taira_Tech
+> Mr Frank
  ✧✧✧✧✧✧✧✧✧✧✧✧✧ 
  
 ╭════════════════ ⪩
